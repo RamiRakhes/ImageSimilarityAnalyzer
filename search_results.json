@@ -1,0 +1,60 @@
+{
+  "results": [
+    [
+      "datasets/database\\iris-versicolour\\iris-0a9fd5cc2af21fc8797b3d6c9a0a1df5d8817168d1e95907c78901a6d86f75f9.jpg",
+      0.18601955230155337,
+      "iris-versicolour"
+    ],
+    [
+      "datasets/database\\non-COVID\\Non-Covid (521).png",
+      0.21917080776176967,
+      "non-COVID"
+    ],
+    [
+      "datasets/database\\iris-virginica\\iris-9a37ae71aca0942cdc2135bca30e4da96f45ad85fa41a57f8d407e6395bec7f8.jpg",
+      0.2298251242591865,
+      "iris-virginica"
+    ],
+    [
+      "datasets/database\\iris-virginica\\iris-fb69572a59584f51fa6ea545d9ef64ac9e9c5bc59551d06b532ddb1797ce2c63.jpg",
+      0.286628519155541,
+      "iris-virginica"
+    ],
+    [
+      "datasets/database\\iris-setosa\\iris-29c3861c8962dd41a2b20d6a13299c35e892c0b59487fe3e5bcc513645d860ab.jpg",
+      0.3255631442422211,
+      "iris-setosa"
+    ],
+    [
+      "datasets/database\\non-COVID\\Non-Covid (522).png",
+      0.3330285748948988,
+      "non-COVID"
+    ],
+    [
+      "datasets/database\\iris-versicolour\\iris-1175239c07a943d89a6335fb4b99a9fb5aabb2137c4d96102f10b25260ae523f.jpg",
+      0.3359093072913688,
+      "iris-versicolour"
+    ],
+    [
+      "datasets/database\\iris-versicolour\\iris-b795e034b6ea08d3cd9acaa434c67aca9d17016991e8dd7d6fd19ae8f6120b77.jpg",
+      0.3397607398021848,
+      "iris-versicolour"
+    ],
+    [
+      "datasets/database\\non-COVID\\Non-Covid (1145).png",
+      0.3662053172429466,
+      "non-COVID"
+    ],
+    [
+      "datasets/database\\non-COVID\\Non-Covid (1146).png",
+      0.3792155903274711,
+      "non-COVID"
+    ]
+  ],
+  "class_distribution": {
+    "iris-versicolour": 3,
+    "non-COVID": 4,
+    "iris-virginica": 2,
+    "iris-setosa": 1
+  }
+}
